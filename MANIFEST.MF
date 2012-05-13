@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Mariotaku Lee
+Bundle-Version: 1.0
+Bundle-Name: android-preference
